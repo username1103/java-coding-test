@@ -1,4 +1,4 @@
-package dfs;
+package dfs_bfs;
 
 public class adjacency_matrix {
     public static final int INF = 999999999;
